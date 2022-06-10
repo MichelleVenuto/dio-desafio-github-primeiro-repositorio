@@ -1,0 +1,39 @@
+Entendendo o que é o Git e sua importância
+
+Git é um sistema de versionamento distribuído criado por Linus Torvalds.
+Git e GitHub não são a mesma coisa, são complementares.
+
+Vantagem de aprender Git:
+- Controle de versões
+- Armazenamento em nuvem
+- Trabalho em equipe
+- Melhoria do código
+- Reconhecimento
+
+Comandos básicos: 
+O git não tem interface gráfica, nele se trabalha com linhas de comando. Podemos mudar pastas, listar pastas, criar pastas e arquivos.
+- No Windows:
+cd possibilita navegar pelas pastas
+dir lista todos os diretórios que temos
+mkdir cria uma pasta
+del/rmdir deleta arquivos (del), apaga a pasta (rmdir)
+control + l limpa a tela
+
+Tópicos fundamentais para entender o funcionamento do Git
+-SHA: a sigla significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções HASH criptográficas projtadas pela NSA (Agência de Segurança Nacional dos EUA).
+A encriptação gera conjunto de caracteres identificador de 40 dígitos (único).
+É uma forma curta de representar um arquivo.
+
+Objetos internos do Git:
+- Blobs (básico)
+- Trees (contém blobs, aponta para o blob e o nome do arquivo)
+- Commits (objeto que junta todas as informações)
+
+O Git armazena dados e metadados. A Árvore pode apontar para outas árvores (Tree). Os objetos do Git estão relacionados.
+
+O Git é um sistema distribuído seguro.
+
+Chave SSH e Token
+- Chave SSH: forma de estabelecer de modo seguro uma conexão ente duas máquinas. Com essa chave é possível que o servidor GitHub reconheça sua máquina e não seja necessário entrar com usuário e senha.
+
+- Token de acesso pessoal não é muito utilizado.

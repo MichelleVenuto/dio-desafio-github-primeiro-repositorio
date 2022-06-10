@@ -1,0 +1,20 @@
+- Introdução à Linguagem de Programação
+
+Histórico da programação: 
+
+O hardware teve uma lenta evolução.
+Linguagem Assembly (1949) - linguagem de montagem de máquina, não de programação.
+Anos 50 - Cobol.
+Década de 90 - Alto nível.
+Anos 2000 - Novos conceitos.
+
+Problemas computacionais:
+
+Objeto de discussão que possui instruções passo a passo que são mais facilmente resolvíveis em ambiente computacional.
+Problema de decisão: carater lógico (Sim/Não), ideia de pertencimento, problema decidível.
+Problemas de busca: relacionamento binário, objetivo - semelhante ao nome (X está em A?), recorrente em teoria de grafos.
+Problemas de otimização: objetivo - maximizar ou minimizar uma função, aplicações.
+
+O que é uma linguagem de programação?
+Método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte.
+Código-fonte: conjunto de palavras com regras (Tradução/Interpretação).

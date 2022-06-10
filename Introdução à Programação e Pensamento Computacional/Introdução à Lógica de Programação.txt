@@ -1,0 +1,49 @@
+O que é Lógica?
+
+A lógica vem para solucionar algum problema. O problema é uma questão, com numerosas soluções, uma proposta duvidosa que pode ser objeto de discussão.
+
+"Problema é uma questão que foge a uma determinada regra, ou melhor, é um desvio de percurso, o qual impede de atingir um objeto com eficiência e eficácia."
+
+Lógica - parte da filosofia que trata das formas do pensamento em geral (dedução, indução, hipótese, inferência, etc.)e das operações intelectuais que visam à detrminação do que é verdadeiro ou não."
+
+A lógica auxilia na resolução de problemas, é uma organização coesa, ordenação que segue as convenções, forma de desencadear acontecimentos, forma de raciocínio.
+
+Para computação a lógica é a organização e planejamento das instruções, assertivas em um algoritmo, a fim de viabilizar a implantação de um programa.
+
+Uma sequência de instruções leva a diversas ações que está ligada a uma ação maior, o alvo ou objetivo.
+
+Computadores não podem prever comportamentos, por isso é necessário que se tenha instruções detalhadas. 
+
+Técnicas de Lógica de Programação
+- Técnica Linear 
+	Modelo tradicional
+	Não tem vínculo 
+		Estrutura hierárquica 
+		Programação de computadores
+- Técnica Estruturada
+	Organização, disposição e ordem de elementos essenciais que compõem um corpo (concreto ou abstrato).
+	
+	Objetivo:
+Escrita -> Programas
+Entendimento 
+Validação 
+Manutenção -> Facilitador
+
+- Técnica Modular
+	Controlado por um conjunto de regras.
+
+	Metas:
+Simplificação
+Decompor o problema
+Verificação do módulo
+
+Cada módulo tem sua regra exclusiva.
+
+Fundamentos de Algoritmos:
+- Tipologia e variáveis
+- Instruções primitivas
+- Estruturas condicionais e operadores
+- Estruturas de repetição
+- Vetores e Matrizes
+- Funções
+- Instruções de entrada e saída

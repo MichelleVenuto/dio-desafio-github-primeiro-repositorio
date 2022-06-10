@@ -1,0 +1,28 @@
+Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador.
+
+Sistemático e eficient na formulação e resolução de problemas. Deve ser usado de forma que seja capaz de resolver problemas tanto por uma máquina quanto por humanos.
+
+Habilidade generalista: Usada de forma intuitiva.
+
+Baseado em 4 pilares: 
+Um problema complexo deverá ser dividido em subproblemas.
+
+Decomposição ->  Reconhecimento de Padrões -> Abstração -> Design de algoritmos
+
+Processo contínuo
+Defini uma solução
+Testa a solução
+Aperfeiçoa a solução encontrada
+
+Habilidades complementares:
+Raciocínio lógico 
+Aperfeiçoamento
+
+O Raciocínio Lógico é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema.
+Habilidade de treinamento
+
+*Pilares:
+Decomposição
+Padrões
+Abstração
+Algoritmos
